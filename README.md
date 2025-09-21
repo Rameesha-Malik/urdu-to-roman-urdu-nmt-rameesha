@@ -16,7 +16,7 @@ This project implements a state-of-the-art Neural Machine Translation system for
 
 ### 🚀 Live Demo
 
-**Try the model live here**: [Hugging Face Space - Urdu to Roman Urdu Translator](https://huggingface.co/spaces/rameesha146/urdu-to-roman-urdu-nmt-rameesha)
+**Try the model live here**: [Hugging Face Space - Urdu to Roman Urdu Translator](https://huggingface.co/spaces/rameesha146/urdu-roman-transliteration-rameesha)
 
 ### 📊 Dataset
 
